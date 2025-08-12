@@ -441,7 +441,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 **Built with ❤️ for IoT learning and development**
 
-Created by **Ayan Ahmed Khan** | [GitHub](https://github.com/your-username) | [LinkedIn](https://linkedin.com/in/your-profile)
+Created by **Ayan Ahmed Khan** | [GitHub](https://github.com/AyanAhmedKhan) | [LinkedIn](https://www.linkedin.com/in/ayan-ahmed-khan-95978620a/)
 
 ⭐ **Star this repo if you found it helpful!**
 
