@@ -67,7 +67,7 @@ graph LR
     B <--> D
     E[IoT Simulator] --> B
     
-    style A fill:#61dafb
+    style A fill:#6B7280
     style B fill:#339933
     style C fill:#4DB33D	
     style D fill:#010101
