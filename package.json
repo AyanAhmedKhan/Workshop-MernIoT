@@ -1,0 +1,27 @@
+{
+  "name": "iot-dashboard",
+  "version": "1.0.0",
+  "description": "Real-time IoT data dashboard with MERN stack",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js",
+    "client": "cd client && npm start",
+    "build": "cd client && npm run build",
+    "install-client": "cd client && npm install",
+    "heroku-postbuild": "npm run install-client && npm run build"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.5.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "socket.io": "^4.7.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "keywords": ["iot", "dashboard", "mern", "mongodb", "react"],
+  "author": "IoT Workshop",
+  "license": "MIT"
+}
