@@ -69,7 +69,7 @@ graph LR
     
     style A fill:#61dafb
     style B fill:#339933
-    style C fill:#4DB33D
+    style C fill:#4DB33D	
     style D fill:#010101
     style E fill:#ff6b6b
 ```
