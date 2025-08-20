@@ -93,7 +93,7 @@ graph LR
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/iot-dashboard.git
+git clone https://github.com/AyanAhmedKhan/iot-dashboard.git
 cd iot-dashboard
 
 # Install backend dependencies
